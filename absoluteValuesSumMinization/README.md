@@ -1,4 +1,4 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+<!-- Essentially trying to get the median value in an array and if two, the lesser value. -->
 ---
 Given a sorted array of integers a, find an integer x from a such that the value of
 
