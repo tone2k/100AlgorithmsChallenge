@@ -3,7 +3,7 @@ function add(param1: number, param2: number): number {
 }
 
 function add2(...param1: number[]): number {
-    // created variable to use for total and intialized at 0
+    // created variable to iterate through for total and intialized at 0
     let total = 0;
     // for each element in array, take the number and add to the total then return
     param1.forEach((num) => {
